@@ -636,7 +636,7 @@ ul.nav li.active a:before {
 #portfolio .portfolio-item .portfolio-item-inner .portfolio-info {
 	opacity: 0;
 	position: absolute;
-	top:45%;
+	top:0;
 	bottom: 0;
 	left: 0;
 	right: 0;
